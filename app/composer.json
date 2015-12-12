@@ -1,0 +1,16 @@
+{
+    "name": "php_ci_book/blogapp",
+    "authors": [
+        {
+            "name": "harapeko",
+            "email": "tea.lile.tea@gmail.com"
+        }
+    ],
+    "config": {
+	"vendor_dir": "vendor"
+    },
+    "require": {
+        "cakephp/cakephp": "2.5.*",
+        "josegonzalez/cakephp-environments": "1.0.0"
+    }
+}
